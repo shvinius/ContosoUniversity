@@ -77,3 +77,7 @@ C:\Users\Paulius\Documents\VZ programavimas\ASP.NET\5 pamoka\ContosoUniversity\C
 C:\Users\Paulius\Documents\VZ programavimas\ASP.NET\5 pamoka\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.csproj.CopyComplete
 C:\Users\Paulius\Documents\VZ programavimas\ASP.NET\5 pamoka\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
 C:\Users\Paulius\Documents\VZ programavimas\ASP.NET\5 pamoka\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\Paulius\Documents\VZ programavimas\ASP.NET\5 pamoka\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\Paulius\Documents\VZ programavimas\ASP.NET\5 pamoka\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\Paulius\Documents\VZ programavimas\ASP.NET\5 pamoka\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\Paulius\Documents\VZ programavimas\ASP.NET\5 pamoka\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
